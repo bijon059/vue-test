@@ -11,6 +11,7 @@
         <label for="email">Email</label>
         <input id="email" type="email" v-model="email">
       </div>
+      <button type="submit">Save</button>
     </form>
   </div>
 </template>
